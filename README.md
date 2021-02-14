@@ -7,7 +7,6 @@
 - 💼 &nbsp; Currently, I'm adding my projects in my GitHub.
 - 🌱 &nbsp; Enthusiast in Maching Learning and Artificial Intelligence .
 - ✍️ &nbsp; Reading Medium articles and trying out latest technologies trends in AI.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
