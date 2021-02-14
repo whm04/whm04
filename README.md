@@ -1,7 +1,7 @@
 ### Hi there! I'm Wahib Mzali 
 
 <h2> Hey there! I'm Wahib Mzali. <img src="https://raw.githubusercontent.com/zekaouinoureddine/zekaouinoureddine/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://gfycat.com/flickeringterrificjohndory" width="400"/>
+<img align="right" alt="GIF" src="https://www.linkites.com/impact-of-artificial-intelligence-machine-learning-deep-learning-on-youhttps://www.linkites.com/wp-content/uploads/2018/07/poster-109-2.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
