@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Wahib Mzali. <img src="https://raw.githubusercontent.com/zekaouinoureddine/zekaouinoureddine/main/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Wahib Mzali. <img src="https://gfycat.com/ifr/AshamedWeightyDachshund" width="25"></h2>
 <img align="right" alt="GIF" src="https://gfycat.com/ashamedweightydachshund" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
