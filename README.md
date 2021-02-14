@@ -1,9 +1,6 @@
 ### Hi there! I'm Wahib Mzali 
 
-<!--
-**whm04/whm04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m a data science student at National school of computer science at Tunisia 
 - 🌱 I’m currently learning ...
@@ -12,5 +9,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -   Enthusiast in Maching Learning and Artificial Intelligence .
--   
--->
