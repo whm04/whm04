@@ -1,5 +1,3 @@
-### Hi there! I'm Wahib Mzali 
-
 <h2> Hey there! I'm Wahib Mzali. <img src="https://raw.githubusercontent.com/zekaouinoureddine/zekaouinoureddine/main/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://www.linkites.com/impact-of-artificial-intelligence-machine-learning-deep-learning-on-youhttps://www.linkites.com/wp-content/uploads/2018/07/poster-109-2.gif" width="400"/>
 
@@ -33,8 +31,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/NZekaoui?s=09" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/nour-eddine-zekaoui-ba43b1177/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:noureddinezekaoui@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
+
+
+&nbsp; <a href="https://www.linkedin.com/in/wahib-mzali-46b1491a0/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="wahib.mzali@ensi-uma.tn" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
 </p>
