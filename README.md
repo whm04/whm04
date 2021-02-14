@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m a data science student at [National school of computer science](http://www.ensi.rnu.tn/).
-- 🤔 &nbsp; Last month I was in an internship as a data scientist at the [Scientific Institute](http://www.israbat.ac.ma/), where I designed, built and deployed a solution for automated plants identification by Deep Learning TensorFlow/Keras. The solution built is deployed using the Django framework in python.
 - 🎓 &nbsp; Studying Data Science, Data Analysis.
 - 💼 &nbsp; Currently, I'm adding my projects in my GitHub.
 - 🌱 &nbsp; Enthusiast in Maching Learning and Artificial Intelligence .
