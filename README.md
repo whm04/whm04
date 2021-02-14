@@ -18,10 +18,10 @@
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Spring | Git
 <h3>🛠 Areas of expertise </h3>
 
-- 🎯 &nbsp; Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing
+- 🎯 &nbsp; Maching Learning (Scikit-learn), Deep Learning (tensorflow/keras), Image Processing , pattern recognition
 - 🛰️ &nbsp;  Artificial Intelligence, Knowledge Management 
 - 📈 &nbsp; Data visuialization and information mapping (Python| R )
-- 🎰 &nbsp; Applied Statistics and mathematics 
+- 🎰 &nbsp; Applied Statistics and mathematics , optimistaion
 
 
 
