@@ -1,5 +1,4 @@
-<h2> Hey there! I'm Wahib Mzali. <img src="https://gfycat.com/ifr/AshamedWeightyDachshund" width="25"></h2>
-<img align="right" alt="GIF" src="https://gfycat.com/ashamedweightydachshund" width="400"/>
+<h2> Hey there! I'm Wahib Mzali. 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
