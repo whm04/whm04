@@ -2,17 +2,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a data science student at [National school of computer science](http://www.ensi.rnu.tn/).
-- 🎓 &nbsp; Studying Data Science, Data Analysis.
-- 💼 &nbsp; Currently, I'm adding my projects in my GitHub.
+- 🔭 &nbsp; I’m a junior data scientist .
+- 🎓 &nbsp; Working at 3D Matchmovers.
+- 💼 &nbsp; Graduated from the [National school of computer science](http://www.ensi.rnu.tn/).
 - 🌱 &nbsp; Enthusiast in Maching Learning and Artificial Intelligence .
 - ✍️ &nbsp; Reading Medium articles and trying out latest technologies trends in AI.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | SQL | Java | PHP | R | Matlab | PL/SQL
-- 🌐 &nbsp;  Flask | Dash | HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | PostgreSQL | SQLServer | SQLite | Oracle
+- 🌐 &nbsp;  Django |Flask | PHP | Dash | JavaScript | jQuery| HTML | CSS  
+- 🛢 &nbsp; MySQL | PostgreSQL | SQLServer | SQLite | Oracle | MongoDB
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Spring | Git
 <h3>🛠 Areas of expertise </h3>
 
