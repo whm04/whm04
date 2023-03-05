@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m a junior data scientist .
-- 🎓 &nbsp; Working at 3D Matchmovers.
+- 🎓 &nbsp; Working at PAARLY.
 - 💼 &nbsp; Graduated from the [National school of computer science](http://www.ensi.rnu.tn/).
 - 🌱 &nbsp; Enthusiast in Maching Learning and Artificial Intelligence .
 - ✍️ &nbsp; Reading Medium articles and trying out latest technologies trends in AI.
@@ -30,6 +30,6 @@
 <p align="center">
 
 
-&nbsp; <a href="https://www.linkedin.com/in/wahib-mzali-46b1491a0/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/wahibmzali" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="wahib.mzali@ensi-uma.tn" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
 </p>
